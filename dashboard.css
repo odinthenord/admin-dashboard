@@ -91,12 +91,12 @@
 }
 
 .menu button {
-    padding: 7px 15px;
+    padding: 10px 30px;
     border: none;
     border-radius: 20px;
     background-color: #0284c7;
     color: white;
-    width: 75px;
+    width: 100px;
     font-family: Roboto, sans-serif;
     font-weight: bold;
 }
